@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67a66399-a1eb-4eb0-8001-12bf9504b260": {
+      "ProjectGuid": "67a66399-a1eb-4eb0-8001-12bf9504b260",
+      "DisplayName": "ReactApp",
+      "ColorIndex": 0
+    },
+    "6d4db491-1ae7-4d94-901e-6d7fe99bd8a7": {
+      "ProjectGuid": "6d4db491-1ae7-4d94-901e-6d7fe99bd8a7",
+      "DisplayName": "API",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5ba0ec5c-5ba0-4004-9db8-858af8d041f3": {
+      "ProjectGuid": "5ba0ec5c-5ba0-4004-9db8-858af8d041f3",
+      "DisplayName": "Application",
+      "ColorIndex": 2
+    },
+    "43ab59ec-2724-4027-837d-f9d5028d0c0a": {
+      "ProjectGuid": "43ab59ec-2724-4027-837d-f9d5028d0c0a",
+      "DisplayName": "Persistence",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

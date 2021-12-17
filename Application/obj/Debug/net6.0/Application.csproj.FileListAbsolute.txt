@@ -1,0 +1,17 @@
+C:\repos\ReactApp\Application\bin\Debug\net6.0\Application.deps.json
+C:\repos\ReactApp\Application\bin\Debug\net6.0\Application.dll
+C:\repos\ReactApp\Application\bin\Debug\net6.0\ref\Application.dll
+C:\repos\ReactApp\Application\bin\Debug\net6.0\Application.pdb
+C:\repos\ReactApp\Application\bin\Debug\net6.0\Domain.dll
+C:\repos\ReactApp\Application\bin\Debug\net6.0\Persistence.dll
+C:\repos\ReactApp\Application\bin\Debug\net6.0\Domain.pdb
+C:\repos\ReactApp\Application\bin\Debug\net6.0\Persistence.pdb
+C:\repos\ReactApp\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\repos\ReactApp\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\ReactApp\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\repos\ReactApp\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\repos\ReactApp\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\repos\ReactApp\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\repos\ReactApp\Application\obj\Debug\net6.0\Application.dll
+C:\repos\ReactApp\Application\obj\Debug\net6.0\ref\Application.dll
+C:\repos\ReactApp\Application\obj\Debug\net6.0\Application.pdb
