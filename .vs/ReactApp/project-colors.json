@@ -25,7 +25,12 @@
       "ProjectGuid": "43ab59ec-2724-4027-837d-f9d5028d0c0a",
       "DisplayName": "Persistence",
       "ColorIndex": 3
+    },
+    "586618af-ea43-4722-83fa-3ef360c1e7e8": {
+      "ProjectGuid": "586618af-ea43-4722-83fa-3ef360c1e7e8",
+      "DisplayName": "client-app",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
